@@ -67,7 +67,7 @@ See activity-specific READMEs for details.
 
 Please refer to the `LICENSE` file.
 
-⚠️ Source texts linked or referenced inside datasets may be subject to **external licensing terms**. Users are responsible for ensuring compliance.
+Source texts linked or referenced inside datasets may be subject to **external licensing terms**. Users are responsible for ensuring compliance.
 
 ---
 
