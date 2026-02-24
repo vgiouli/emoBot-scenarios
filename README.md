@@ -36,7 +36,7 @@ Each activity type has:
 
 ## Data Format
 
-- **Primary format:** JSON / JSONL  
+- **Primary format:** JSON  
 - **Splits:** `train`, `dev`, `test` (when applicable)
 - **Encoding:** UTF-8
 - **One item = one activity**
